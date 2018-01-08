@@ -1,3 +1,4 @@
 File2 contents:
 
 file2 file2 xxx1
+file2 file2 xxx2
