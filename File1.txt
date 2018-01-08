@@ -1,3 +1,5 @@
 File1 contents:
 
-file1 file1 file1
+file1 file1 xxx1 
+file1 file1 xxx2
+
