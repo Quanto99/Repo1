@@ -1,5 +1,6 @@
 File3 contents:
 
-file3 file3 file3
-file3 file3 file3
-file3 file3 file3
+file3 file3 file3 xxx3
+file3 file3 file3 xxx3
+file3 file3 file3 xxx3
+
